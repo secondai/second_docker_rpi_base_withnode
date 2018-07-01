@@ -82,7 +82,7 @@
     "minimist": "^1.2.0",
     "mongoose": "5.0.11",
     "morgan": "^1.9.0",
-    "mopidy":"0.5.0",
+    "mopidy":"^0.5.0",
     "multihashes": "0.4.13",
     "nedb": "1.8.0",
     "nedb-promise": "2.0.1",
