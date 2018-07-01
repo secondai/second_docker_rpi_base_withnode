@@ -127,6 +127,7 @@
     "usage": "0.7.1",
     "uuid": "^3.1.0",
     "vm2": "^3.5.2",
+    "wav":"^1.0.2",
     "winston": "^2.4.0"
   },
   "devDependencies": {
